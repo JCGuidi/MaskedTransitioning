@@ -1,6 +1,6 @@
 # MaskedTransitioning
 
-![AnimatedTabBar](imgs/animated.gif)
+![MaskedTransitioning](imgs/animated.gif)
 
 ### Table Of Contents
  - [Description](#Description)

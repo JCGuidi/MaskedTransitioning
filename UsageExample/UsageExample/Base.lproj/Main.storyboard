@@ -46,7 +46,7 @@
                                 </connections>
                             </button>
                             <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" currentPage="1" translatesAutoresizingMaskIntoConstraints="NO" id="Adl-Cw-8Sz">
-                                <rect key="frame" x="145.5" y="763" width="123" height="28"/>
+                                <rect key="frame" x="146" y="763" width="122.5" height="28"/>
                             </pageControl>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="5GG-At-H2v"/>
@@ -281,7 +281,7 @@ https://unsplash.com/@yamaicle</string>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="wb9-yj-qzB"/>
+        <segue reference="RKk-oU-s4h"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="2000" height="1333"/>
