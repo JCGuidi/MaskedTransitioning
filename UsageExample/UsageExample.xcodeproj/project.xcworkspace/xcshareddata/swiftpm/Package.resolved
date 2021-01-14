@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MaskedTransitioning",
+        "repositoryURL": "https://github.com/JCGuidi/MaskedTransitioning",
+        "state": {
+          "branch": "main",
+          "revision": "ff2b4ecae745e5ef2cc5678ab2b88c7a792cf7df",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
